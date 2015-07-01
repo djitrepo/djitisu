@@ -39,4 +39,4 @@ This build should be included in AMI.
 
 ## Run
 
-- Make sure TSV files is available on correct path. (debug: `./sql`, release: `/home/djit/sql`)
+- Make sure TSV files is available on correct path. (debug: `./sql`, release: `/home/isucon/sql`)
