@@ -78,7 +78,7 @@ func init() {
 				},
 				cli.StringFlag{
 					Name:   "host",
-					Value:  "localhost:8080",
+					Value:  "localhost",
 					Usage:  "Bench Endpoint host",
 					EnvVar: "ISUCON4_BENCH_HOST",
 				},
