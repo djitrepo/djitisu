@@ -26,8 +26,8 @@ func init() {
 		usersTsvPath = "./sql/dummy_users.tsv"
 		usersUsedTsvPath = "./sql/dummy_users_used.tsv"
 	} else {
-		usersTsvPath = "/home/djit/sql/dummy_users.tsv"
-		usersUsedTsvPath = "/home/djit/sql/dummy_users_used.tsv"
+		usersTsvPath = "/home/isucon/sql/dummy_users.tsv"
+		usersUsedTsvPath = "/home/isucon/sql/dummy_users_used.tsv"
 	}
 
 	duMD5 := getMD5(usersTsvPath)
